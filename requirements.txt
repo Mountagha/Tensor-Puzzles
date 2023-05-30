@@ -3,6 +3,6 @@ torchtyping
 hypothesis
 torch==1.10
 numpy
-pytest
+pytest==7.3.1
 notebookjs
 jupyter
